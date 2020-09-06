@@ -5,7 +5,7 @@
  <img width="800" height="400" src="https://raw.githubusercontent.com/Bugs403/covitine-server/master/public/img/Covitine.png">
 </p>
 
-## -> This is COVITINE, designed by Team Bugs403!
+## -> This is COVITINE, designed by Team Bugss403!
 
 <br>
 
